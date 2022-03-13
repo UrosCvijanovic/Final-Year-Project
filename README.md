@@ -23,7 +23,6 @@
 
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Licence][license-shield]][license-url]
 [![Fork][forks-shield]][forks-url]
 
 
